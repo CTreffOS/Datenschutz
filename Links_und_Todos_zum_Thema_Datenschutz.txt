@@ -1,0 +1,30 @@
+EU-DSGVO (Datenschutzgrundverordnung)
+EU-GDPR (General Data Protection Regulation)
+======================================================================
+
+
+- Originaldokumente:
+  
+  Generell:
+  https://www.datenschutz-grundverordnung.eu/eu-datenschutz-grundverordnung-eu-dsgvo/dokumente-links-und-downloads/
+
+  Alle Sprachen DSGVO, GDPR...:
+  http://eur-lex.europa.eu/legal-content/DE/TXT/?uri=uriserv%3AOJ.L_.2016.119.01.0001.01.DEU&toc=OJ%3AL%3A2016%3A119%3ATOC
+
+  Deutsch - DSGVO:
+  https://www.datenschutz-grundverordnung.eu/wp-content/uploads/2016/04/CONSIL_ST_5419_2016_INIT_DE_TXT.pdf
+  Englisch - GDPR:
+  https://www.datenschutz-grundverordnung.eu/wp-content/uploads/2016/04/CONSIL_ST_5419_2016_INIT_EN_TXT.pdf
+
+
+- Hilfestellung für Vereine:
+
+  https://www.datenschutz-praxis.de/fachnews/dsgvo-hilfestellung-vereine/
+  https://www.baden-wuerttemberg.datenschutz.de/wp-content/uploads/2018/03/OH-Datenschutz-im-Verein-nach-der-DSGVO.pdf
+  http://www.verein-aktuell.de/vereinsrecht-organisation-fuehrung/vorstand-mitgliederversammlung-co/ist-ihr-verein-fuer-die-neue-datenschutz-grundverordnung-dsgvo-bereit
+
+
+- Heise-Artikel zur GSDVO, Heft 5/2018:
+
+  http://epaper.heise.de/download/archiv/c3aedaab1952/ct.18.05.112-115.pdf
+
